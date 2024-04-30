@@ -1,0 +1,120 @@
+.cabecalho{
+  color: white;
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+  background-color: rgb(13, 0, 37);
+  width: 95%;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+  position: absolute;
+  font-family: "Roboto Slab", serif;
+  font-style: normal;   
+  margin-left: 16px;
+}
+
+.cabecalhoimg{
+margin-left: 30px;
+width: 140px;
+height: 140px;
+position: absolute;
+} 
+
+.trioimg{
+width: 700px;
+height: 500px;
+margin-left: 10px;
+margin-top: 190px;
+position: absolute;
+}
+
+.nomeI{
+margin-top: 200px;
+margin-left: 1000px;
+font-size: 40px;
+color: rgb(13, 0, 37);
+position: absolute;
+}
+
+.nomeO{
+  margin-top: 300px;
+margin-left: 1000px;
+font-size: 40px;
+color: rgb(13, 0, 37);
+position: absolute;
+}
+
+.nomeK{
+  margin-top: 400px;
+margin-left: 1000px;
+font-size: 40px;
+color: rgb(13, 0, 37);
+position: absolute;
+}
+
+.nomeC{
+  margin-top: 500px;
+margin-left: 1000px;
+font-size: 40px;
+color: rgb(13, 0, 37);
+position: absolute;
+}
+
+.botaoI{
+  margin-top: 250px;
+  margin-left: 1000px;
+background-color: rgb(13, 0, 37);
+width: 50px;
+height: 60px;
+position: absolute;
+}
+
+.botaoO{
+  margin-top: 350px;
+  margin-left: 1000px;
+background-color: rgb(13, 0, 37);
+width: 50px;
+height: 60px;
+position: absolute;
+}
+
+.botaoK{
+  margin-top: 450px;
+  margin-left: 1000px;
+background-color: rgb(13, 0, 37);
+width: 50px;
+height: 60px;
+position: absolute;
+}
+
+.botaoC{
+  margin-top: 550px;
+  margin-left: 1000px;
+background-color: rgb(13, 0, 37);
+width: 50px;
+height: 60px;
+position: absolute;
+}
+
+.rodape{
+  background-color: rgb(13, 0, 37);
+  width: 95%;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+  position: absolute;
+  margin-left: 16px;
+  margin-top: 820px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  transition: color 0.9s ease;
+}
+
+a:hover {
+  color: #f0b3ff;
+}

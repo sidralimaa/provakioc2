@@ -1,0 +1,59 @@
+.cabecalho{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    background-color: rgb(13, 0, 37);
+    width: 95%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    position: absolute;
+    font-family: "Roboto Slab", serif;
+    font-style: normal;   
+    margin-left: 16px;
+}
+
+.cabecalhoimg{
+margin-left: 30px;
+width: 140px;
+height: 140px;
+position: absolute;
+} 
+
+
+.txt1{
+  position: absolute;
+  margin-left: 450px;
+  font-size: small;
+  margin-top: 200px;
+}
+
+.rodape{
+    background-color: rgb(13, 0, 37);
+    width: 95%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    position: absolute;
+    margin-left: 16px;
+    margin-top: 820px;
+}
+
+.imgi{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: color 0.9s ease;
+  }
+  
+a:hover {
+    color: #f0b3ff;
+  }
+  
